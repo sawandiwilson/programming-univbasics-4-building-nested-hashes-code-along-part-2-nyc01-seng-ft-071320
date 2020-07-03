@@ -52,7 +52,7 @@ def add_characters
       },
       :additional_characters => {
         :patriarch => {name: "Prince Escalus"}
-        
+        :matriarch => {name: "Apothecary"}
       }
    }
 
